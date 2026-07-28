@@ -24,7 +24,17 @@
 
 Building AI-native enterprise software while exploring offensive security, ethical hacking, AI agents, and scalable system architecture.
 
-*Python • FastAPI • Next.js • Cybersecurity • AI • Full-Stack Development*
+![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&labelColor=0A101F)
+&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0A101F?style=for-the-badge&logo=fastapi&logoColor=10B981&labelColor=0A101F)
+&nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=nextdotjs&logoColor=A78BFA&labelColor=0A101F)
+&nbsp;&nbsp;
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A101F?style=for-the-badge&logo=kalilinux&logoColor=22D3EE&labelColor=0A101F)
+&nbsp;&nbsp;
+![AI](https://img.shields.io/badge/AI-0A101F?style=for-the-badge&logo=anthropic&logoColor=10B981&labelColor=0A101F)
+&nbsp;&nbsp;
+![Full-Stack](https://img.shields.io/badge/Full--Stack-0A101F?style=for-the-badge&logoColor=A78BFA&labelColor=0A101F)
 
 </div>
 
