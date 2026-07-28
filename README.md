@@ -35,7 +35,9 @@ Building AI-native enterprise software while exploring offensive security, ethic
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/anonymous777999?style=for-the-badge&logo=github&color=22D3EE&labelColor=0A101F)
+&nbsp;&nbsp;
 ![Stars](https://img.shields.io/github/stars/anonymous777999?style=for-the-badge&logo=github&color=A78BFA&labelColor=0A101F)
+&nbsp;&nbsp;
 ![Repos](https://img.shields.io/github/repos/anonymous777999?style=for-the-badge&logo=github&color=10B981&labelColor=0A101F)
 
 
