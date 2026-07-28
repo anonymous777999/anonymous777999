@@ -38,14 +38,14 @@ Building AI-native enterprise software while exploring offensive security, ethic
 
 <br/>
 
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=anonymous777999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=anonymous777999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anonymous777999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous777999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
 
-> ⚠️ **Replace `YOUR-INSTANCE`** with your actual Vercel URL after self-hosting `github-readme-stats` (see Setup Guide below).
->
 > `hide_rank=true` is used because the letter grade is heavily weighted toward stars and followers — it measures repo popularity, not skill. Hiding it is the honest choice.
+>
+> 💡 **For best reliability:** Self-host your own instance on Vercel (see `SETUP-GUIDE.md`) to avoid public API rate limits.
 
 ---
 
