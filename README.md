@@ -34,18 +34,12 @@ Building AI-native enterprise software while exploring offensive security, ethic
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=anonymous777999&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+![Followers](https://img.shields.io/github/followers/anonymous777999?style=for-the-badge&logo=github&color=22D3EE&labelColor=0A101F)
+![Stars](https://img.shields.io/github/stars/anonymous777999?style=for-the-badge&logo=github&color=A78BFA&labelColor=0A101F)
+![Repos](https://img.shields.io/github/repos/anonymous777999?style=for-the-badge&logo=github&color=10B981&labelColor=0A101F)
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anonymous777999&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymous777999&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
-
-> `hide_rank=true` is used because the letter grade is heavily weighted toward stars and followers — it measures repo popularity, not skill. Hiding it is the honest choice.
->
-> 💡 **For best reliability:** Self-host your own instance on Vercel (see `SETUP-GUIDE.md`) to avoid public API rate limits.
 
 ---
 
